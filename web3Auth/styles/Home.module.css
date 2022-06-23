@@ -3,7 +3,7 @@
   display: grid;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(90deg, #1ac7fe, #b114fb);
+  background-image: linear-gradient(90deg, #12de1e, #a1342b);
 }
 .card {
   width: 250px;
